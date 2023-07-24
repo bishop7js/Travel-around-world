@@ -3,7 +3,7 @@ import React from "react";
 const MainScreen = () => {
     return (
         <div>
-            Main Screen
+            Select a place inside the map
         </div>
     );
 }
